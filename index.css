@@ -18,9 +18,13 @@ body{
     color: white;
     text-decoration: none;
 }
-.main_nav_bar{
+.main_nav_bar p{
+    font-size: 20px;
+    color: white;
+}
+.main_nav_bar h2{
     color: purple;
-    font-size: 40px;
+    font-size: 60px;
 }
 .other_nav_bars{
     padding-top: 10px;

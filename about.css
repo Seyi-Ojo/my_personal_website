@@ -22,21 +22,23 @@ body {
     margin-bottom: 10px;
 }
 .navigation_bar a{
-    color: purple;
+    color: black;
     text-decoration: none;
 }
 a {
-    color: purple;
+    color: black;
     text-decoration: none;
 }
 a:hover {
+    color: purple;
+}
+.main_nav_bar p{
+    font-size: 20px;
     color: black;
 }
-.main_nav_bar{
+.main_nav_bar h2{
     color: purple;
-    font-size: 40px;
-    background-color: white;
-    /* text-shadow: -1px -1px 1px white, 1px -1px 1px white, -1px 1px 1px white, 1px 1px 1px white; */
+    font-size: 60px;
 }
 .other_nav_bars{
     padding-top: 10px;
@@ -99,10 +101,10 @@ a:hover {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .meet-me h2{
-    color: aliceblue;
+    color: white;
     font-size: 30px;
     font-style: italic;
-    text-shadow: -2px -2px 2px purple, 2px -2px 2px purple, -2px 2px 2px purple, 2px 2px 2px purple;
+    text-shadow: -8px -8px 8px purple, 8px -8px 8px purple, -8px 8px 8px purple, 8px 8px 8px purple;
 }
 .contact{
     margin-top: 4rem;
